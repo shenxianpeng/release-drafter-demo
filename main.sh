@@ -1,1 +1,1 @@
-echo "test release-drafter"
+echo "test release-drafter-demo"
